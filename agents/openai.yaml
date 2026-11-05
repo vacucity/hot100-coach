@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hot 100 刷题教练"
+  short_description: "题型识别、分层提示、代码核对与中英复盘"
+  default_prompt: "用 $hot100-coach 带我练一道 Hot 100 题，先让我判断题型，再逐步提示和核对代码。"
